@@ -41,7 +41,7 @@
 
 ## 🛠 Skills:
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/unity.png"  width="48" height="48"/> 
+  <img src="https://img.icons8.com/color/48/000000/unity.png](https://img.icons8.com/3d-fluency/94/facebook-logo.png"  width="48" height="48"/> 
   <img src="https://img.icons8.com/ios-filled/50/c-sharp-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
